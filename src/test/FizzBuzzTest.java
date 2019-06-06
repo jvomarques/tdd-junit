@@ -8,7 +8,7 @@ import main.FizzBuzz;
 public class FizzBuzzTest {
 
 	@Test
-	public void testNumberIsntFizzAndBuzz() {
+	public void testNumberIsFizzBuzz() {
 		
 		FizzBuzz fizzbuzz = new FizzBuzz();
 		
