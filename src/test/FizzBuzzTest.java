@@ -12,8 +12,8 @@ public class FizzBuzzTest {
 		
 		FizzBuzz fizzbuzz = new FizzBuzz();
 		
-		String actual = fizzbuzz.converterNumberToFizzBuzz(1);
-		String expected = "1";
+		String actual = fizzbuzz.converterNumberToFizzBuzz(3);
+		String expected = "Fizz";
 		
 		Assert.assertEquals(expected, actual);
 	}
